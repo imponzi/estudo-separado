@@ -1,6 +1,4 @@
 # estudo-separado
  Exercícios de estudo 
 
-<p>https://imponzi.github.io/estudo-separado/cap25/ex026/mq002/index.html
-</p>
-
+<a href="https://imponzi.github.io/estudo-separado/cap25/ex026/mq002/index.html" target="_blank">https://imponzi.github.io/estudo-separado/cap25/ex026/mq002/index.html</a>
